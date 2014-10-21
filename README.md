@@ -15,7 +15,5 @@ Or (windows && !ruby) run the exe
 
     mod_lister.exe <path_to_KSP_install>
 
-or, if you place it inside a KSP install (in the root of the install), just 
-
-    mod_lister.exe    
-
+You don't need to supply a path if you run it from inside the root of a KSP install.
+It will display the installed mods and also output the list to a text file (located wherever mod_lister is run from)
