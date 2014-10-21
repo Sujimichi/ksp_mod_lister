@@ -1,0 +1,16 @@
+GIT
+  remote: https://github.com/Sujimichi/KerbalX.git
+  revision: afda598baf059afeb9634e84edfef809cc95e58e
+  specs:
+    KerbalX (0.3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  KerbalX!
